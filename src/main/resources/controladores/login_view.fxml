@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controladores.LoginView">
+   <children>
+      <Text layoutX="175.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Videoclub Almagro">
+         <font>
+            <Font name="Yu Gothic Regular" size="29.0" />
+         </font>
+      </Text>
+      <TextField fx:id="correo" alignment="TOP_CENTER" layoutX="202.0" layoutY="124.0" prefHeight="25.0" prefWidth="196.0" promptText="DNI" />
+      <TextField fx:id="contraseña" alignment="TOP_CENTER" layoutX="202.0" layoutY="161.0" prefHeight="25.0" prefWidth="196.0" promptText="Contraseña" />
+      <Text layoutX="244.0" layoutY="306.0" strokeType="OUTSIDE" strokeWidth="0.0" text="¿Aún no eres cliente?" />
+      <Button layoutX="252.0" layoutY="326.0" onAction="#registrateButton" prefHeight="25.0" prefWidth="97.0" text="Registrate" />
+      <Button layoutX="204.0" layoutY="200.0" onAction="#entrarButton" prefHeight="25.0" prefWidth="196.0" text="Entrar" />
+   </children>
+</AnchorPane>

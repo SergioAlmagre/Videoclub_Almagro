@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5e20a63-ee08-494c-9725-54286581f57e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BBDD/Conexion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BBDD/Constantes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Factorias/Factoria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Interfaces/ElementosGenerales.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Juegos/Juego.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Juegos/JuegoConsola.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Juegos/JuegoDeMesa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Musica/Cd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Musica/Musica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Musica/Vinilo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sistema/Alquiler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sistema/Ofertas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sistema/Usuario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Video/Dvd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Video/Vhs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Video/Video.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controladores/InformacionController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controladores/LoginController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controladores/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controladores/MenuController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controladores/SingUpController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/controladores/informacion_view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/controladores/login_view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/controladores/menu_view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/controladores/singUp_view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Ow22tcCO35UngMHY4qWulh0eih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "S:/Mi unidad/1ºDAM/1 - Programación/2 - Ejercicios/2 - Kotlin/13 - Entornos gráficos/Videoclub_Almagro",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41264367",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Sistema" />
+      <recent name="BBDD" />
+      <recent name="com.example.videoclub_almagro" />
+      <recent name="Legal" />
+      <recent name="Factorias" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e20a63-ee08-494c-9725-54286581f57e" name="Changes" comment="" />
+      <created>1682457124031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682457124031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
